@@ -32,3 +32,8 @@
 	pointer-events: none;
 	display: none;
 }
+
+/* Add these new rules at the end of the file */
+/* .workspace-leaf-content.folder-focus-mode .focus-folder-button.specific-focus svg {
+    color: var(--color-red);
+} */
